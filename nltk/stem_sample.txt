@@ -1,0 +1,5 @@
+cats catlike catty cat 
+stemmer stemming stemmed stem 
+fishing fished fisher fish 
+argue argued argues arguing argus argu 
+argument arguments argument
